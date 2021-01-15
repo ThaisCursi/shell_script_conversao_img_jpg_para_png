@@ -1,0 +1,1 @@
+# shell_script_conversao_img_jpg_para_png
